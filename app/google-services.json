@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243769965829",
+    "project_id": "howtine",
+    "storage_bucket": "howtine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243769965829:android:2770f8fde1505b81b0cb6c",
+        "android_client_info": {
+          "package_name": "com.luizhbfilho.howtine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQtavFwyN96_WgUuowYMr3_8OdJDZD3gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
